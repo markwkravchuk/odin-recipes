@@ -1,1 +1,19 @@
+* {
+    font-family: 'Times New Roman', serif;
+}
 
+h1 {
+    color: purple;
+    text-align: center;
+    font-weight: 900;
+}
+
+p {
+    background-color: black;
+    color: greenyellow;
+}
+
+h2 {
+    color: royalblue;
+    font-weight: bold;
+}
