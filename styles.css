@@ -13,3 +13,9 @@ h2 {
     color: royalblue;
     font-weight: bold;
 }
+
+ul > li {
+    color: goldenrod;
+    background-color: darkblue;
+    font-weight: lighter;
+}
